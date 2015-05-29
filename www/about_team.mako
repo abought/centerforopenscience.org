@@ -32,7 +32,7 @@
             <img src="../static/img/people/schiller.jpg" alt="Alex Schiller">
             <h3>
                 Alex Schiller
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/alexschiller" data-original-title="GitHub" class="github"></a></li>
@@ -45,7 +45,7 @@
             <img src="../static/img/people/sallans.jpg" alt="Andrew Sallans">
             <h3>
                 Andrew Sallans
-                <small>Partnerships, Collaborations, & Funding Manager | Community </small>
+                <small>Partnerships, Collaborations, & Funding Manager | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">andre<span style="display:none;">null</span>w@cos<span style="display:none;">null</span>.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -61,7 +61,7 @@
             <img src="../static/img/people/boughton.jpg" alt="Andy Boughton">
             <h3>
                 Andy Boughton
-                <small>Developer | Infrastructure</small>
+                <small>Developer | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">abou<span style="display:none;">null</span>ght@cos<span style="display:none;">null</span>.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -76,7 +76,7 @@
 ##            <img src="../static/img/people/yetton.jpg" alt="Benjamin Yetton">
 ##            <h3>
 ##                Benjamin Yetton
-##                <small>Developer Intern | Infrastructure</small>
+##                <small>Developer Intern | Ninja</small>
 ##            </h3>
 ##            <ul class="social-icons social-icons-color">
 ##                <li><a href="https://github.com/bdyetton" data-original-title="GitHub" class="github"></a></li>
@@ -89,7 +89,7 @@
             <img src="../static/img/people/ferronato.jpg" alt="Betsy Ferronato">
             <h3>
                 Betsy Ferronato
-                <small>Human Resources Assistant | Community</small>
+                <small>Human Resources Assistant | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">bet<span style="display:none;">null</span>sy@cos<span style="display:none;">null</span>.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -105,7 +105,7 @@
             <img src="../static/img/people/hunt.jpg" alt="Billy Hunt">
             <h3>
                 Billy Hunt
-                <small>Developer | Infrastructure</small>
+                <small>Developer | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">bil<span style="display:none;">null</span>ly@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -123,7 +123,7 @@
             <img src="../static/img/people/purvis.jpg" alt="Brandon Purvis">
             <h3>
                 Brandon Purvis
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/brandonPurvis" data-original-title="GitHub" class="github"></a></li>
@@ -136,7 +136,7 @@
             <img src="../static/img/people/geiger.jpg" alt="Brian Geiger">
             <h3>
                 Brian Geiger
-                <small>Developer | Infrastructure</small>
+                <small>Developer | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">bgeig<span style="display:none;">null</span>er@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -168,7 +168,7 @@
             <img src="../static/img/people/gorges.jpg" alt="Bryan Gorges">
             <h3>
                 Bryan Gorges
-                <small>Developer | Infrastructure</small>
+                <small>Developer | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">bgor<span style="display:none;">null</span>ges@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -183,7 +183,7 @@
             <img src="../static/img/people/fitzgerald3.jpg" alt="Cailey Fitzgerald">
             <h3>
                 Cailey Fitzgerald
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/caileyfitz" data-original-title="GitHub" class="github"></a> </li>
@@ -197,7 +197,7 @@
             <img src="../static/img/people/uguz.jpg" alt="Caner Uguz">
             <h3>
                 Caner Uguz
-                <small>Developer | Infrastructure</small>
+                <small>Developer | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">can<span style="display:none;">null</span>er@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -215,7 +215,7 @@
             <img src="../static/img/people/kugler.jpg" alt="Casey Kugler">
             <h3>
                 Casey Kugler
-                <small>Recruiter | Community</small>
+                <small>Recruiter | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">casey.ku<span style="display:none;">null</span>gler@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -232,7 +232,7 @@
             <img src="../static/img/people/rollins.jpg" alt="Casey Rollins">
             <h3>
                 Casey Rollins
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/cmr3rm" data-original-title="GitHub" class="github"></a></li>
@@ -246,7 +246,7 @@
             <img src="../static/img/people/overstreet.jpg" alt="Chelsea Overstreet">
             <h3>
                 Chelsea Overstreet
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/overstreetce" data-original-title="GitHub" class="github"></a></li>
@@ -259,7 +259,7 @@
             <img src="../static/img/people/seto.jpg" alt="Chris Seto">
             <h3>
                 Chris Seto
-                <small>Developer | Infrastructure</small>
+                <small>Developer | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">chrisse<span style="display:none;">null</span>to@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -274,7 +274,7 @@
             <img src="../static/img/people/soderberg.jpg" alt="Courtney Soderberg">
             <h3>
                 Courtney Soderberg
-                <small>Statistical Consultant | Community</small>
+                <small>Statistical Consultant | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">court<span style="display:none;">null</span>ney@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -289,7 +289,7 @@
             <img src="../static/img/people/mellor.jpg" alt="David Mellor">
             <h3>
                 David Mellor
-                <small>Project Manager | Community</small>
+                <small>Project Manager | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">dav<span style="display:none;">null</span>id@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -305,7 +305,7 @@
             <img src="../static/img/people/holman.jpg" alt="Denise Holman">
             <h3>
                 Denise Holman
-                <small>Office Manager & Events Coordinator | Community </small>
+                <small>Office Manager & Events Coordinator | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">deni<span style="display:none;">null</span>se@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -320,7 +320,7 @@
             <img src="../static/img/people/braswell.JPG" alt="Erin Braswell">
             <h3>
                 Erin Braswell
-                <small>Developer | Infrastructure</small>
+                <small>Developer | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">er<span style="display:none;">null</span>in@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -337,7 +337,7 @@
             <img src="../static/img/people/vonfeilitzsch.jpg" alt="Fabian von Feilitzsch">
             <h3>
                 Fabian von Feilitzsch
-                <small>Developer | Infrastructure</small>
+                <small>Developer | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/fabianvf" data-original-title="GitHub" class="github"></a></li>
@@ -352,7 +352,7 @@
             <img src="../static/img/people/gaskins.jpg" alt="Gage Gaskins">
             <h3>
                 Gage Gaskins
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/gagegaskins" data-original-title="GitHub" class="github"></a></li>
@@ -365,7 +365,7 @@
             <img src="../static/img/people/kriebel.jpg" alt="Gary Kriebel">
             <h3>
                 Gary Kriebel
-                <small>Technical Project Manager | Infrastructure</small>
+                <small>Technical Project Manager | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">gar<span style="display:none;">null</span>y@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -381,7 +381,7 @@
             <img src="../static/img/people/rhee.jpg" alt="Gene Rhee">
             <h3>
                 Gene Rhee
-                <small>Developer Volunteer | Infrastructure</small>
+                <small>Developer Volunteer | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/gkr6sy" data-original-title="Github" class="github"></a></li>
@@ -394,7 +394,7 @@
             <img src="../static/img/people/chen2.jpg" alt="Haoyu Chen">
             <h3>
                 Haoyu Chen
-                <small>Web Design Intern | Infrastructure</small>
+                <small>Web Design Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/chenhaoyu1992" data-original-title="Github" class="github"></a></li>
@@ -407,7 +407,7 @@
             <img src="../static/img/people/rybacki.jpg" alt="Harry Rybacki">
             <h3>
                 Harry Rybacki
-                <small>Developer | Infrastructure</small>
+                <small>Developer | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">har<span style="display:none;">null</span>ry@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -422,7 +422,7 @@
             <img src="../static/img/people/ojha.jpg" alt="Himanshu Ojha">
             <h3>
                 Himanshu Ojha
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/himanshuo" data-original-title="GitHub" class="github"></a></li>
@@ -436,7 +436,7 @@
             <img src="../static/img/people/kumar.jpg" alt="Himica Kumar">
             <h3>
                 Himica Kumar
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/himicakumar" data-original-title="GitHub" class="github"></a></li>
@@ -467,7 +467,7 @@
 ##            <img src="../static/img/people/lui.jpg" alt="Jiankun Lui">
 ##            <h3>
 ##                Jiankun Lui
-##                <small>Developer Intern | Infrastructure</small>
+##                <small>Developer Intern | Ninja</small>
 ##            </h3>
 ##            <ul class="social-icons social-icons-color">
 ##
@@ -481,7 +481,7 @@
             <img src="../static/img/people/cohoon.jpg" alt="Johanna Cohoon">
             <h3>
                 Johanna Cohoon
-                <small>Project Coordinator | Metascience</small>
+                <small>Project Coordinator | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">johan<span style="display:none;">null</span>na@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -498,7 +498,7 @@
             <img src="../static/img/people/tordoff.jpg" alt="John Tordoff">
             <h3>
                 John Tordoff
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/johnetordoff" data-original-title="GitHub" class="github"></a> </li>
@@ -512,7 +512,7 @@
             <img src="../static/img/people/esposito.jpg" alt="Jolene Esposito">
             <h3>
                 Jolene Esposito
-                <small>Project Manager | Metascience</small>
+                <small>Project Manager | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">jol<span style="display:none;">null</span>ene@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -527,7 +527,7 @@
             <img src="../static/img/people/gupta.jpg" alt="Kushagra Gupta">
             <h3>
                 Kushagra Gupta
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://www.facebook.com/imkushagra" data-original-title="Facebook" class="facebook"></a></li>
@@ -542,7 +542,7 @@
             <img src="../static/img/people/banner.jpg" alt="Larry Banner">
             <h3>
                 Larry Banner
-                <small>Technical Project Manager | Infrastructure</small>
+                <small>Technical Project Manager | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">lar<span style="display:none;">null</span>ry@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -558,7 +558,7 @@
             <img src="../static/img/people/barker.jpg" alt="Lauren Barker">
             <h3>
                 Lauren Barker
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/leb2dg" data-original-title="GitHub" class="github"></a></li>
@@ -571,7 +571,7 @@
             <img src="../static/img/people/revere.jpg" alt="Lauren Revere">
             <h3>
                 Lauren Revere
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/geeksnglitter" data-original-title="GitHub" class="github"></a></li>
@@ -585,7 +585,7 @@
             <img src="../static/img/people/simon.jpg" alt="Lyndsy Simon">
             <h3>
                 Lyndsy Simon
-                <small>Developer | Infrastructure</small>
+                <small>Developer | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">lynd<span style="display:none;">null</span>sy@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -600,7 +600,7 @@
             <img src="../static/img/people/kidwell.JPG" alt="Mallory Kidwell">
             <h3>
                 Mallory Kidwell
-                <small>Project Coordinator | Metascience</small>
+                <small>Project Coordinator | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">mallo<span style="display:none;">null</span>ry@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
                 <ul class="social-icons social-icons-color">
@@ -617,7 +617,7 @@
             <img src="../static/img/people/frazier.jpg" alt="Matthew Frazier">
             <h3>
                 Matthew Frazier
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/mfraezz" data-original-title="GitHub" class="github"></a> </li>
@@ -630,7 +630,7 @@
             <img src="../static/img/people/kelly.jpg" alt="Megan Kelly">
             <h3>
                 Megan Kelly
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/megankelly" data-original-title="GitHub" class="github"></a> </li>
@@ -643,7 +643,7 @@
             <img src="../static/img/people/renfro.jpg" alt="Megan Renfro">
             <h3>
                 Megan Renfro
-                <small>Administrative Assistant | Community</small>
+                <small>Administrative Assistant | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">mren<span style="display:none;">null</span>fro@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -660,7 +660,7 @@
             <img src="../static/img/people/michael.jpg" alt="Michael Hasleton">
             <h3>
                 Michael Hasleton
-                <small>Developer | Infrastructure</small>
+                <small>Developer | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">mich<span style="display:none;">null</span>ael@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
                 <ul class="social-icons social-icons-color">
@@ -678,7 +678,7 @@
             <img src="../static/img/people/chen.jpg" alt="Nan Chen">
             <h3>
                 Nan Chen
-                <small>Developer | Infrastructure</small>
+                <small>Developer | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">na<span style="display:none;">null</span>n@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
                 <ul class="social-icons social-icons-color">
@@ -693,7 +693,7 @@
             <img src="../static/img/people/welcher.jpg" alt="Natasha Richter">
             <h3>
                 Natasha Welcher
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://osf.io/dx56w/" data-original-title="osf" class="osf"></a></li>
@@ -705,7 +705,7 @@
             <img src="../static/img/people/pfeiffer.jpg" alt="Nicole Pfeiffer">
             <h3>
                 Nicole Pfeiffer
-                <small>Software Quality Engineer | Infrastructure</small>
+                <small>Software Quality Engineer | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">ni<span style="display:none;">null</span>ci@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -721,7 +721,7 @@
             <img src="../static/img/people/muggill.jpg" alt="Patrick Muggill">
             <h3>
                 Patrick Muggill
-                <small>IT Intern | Infrastructure</small>
+                <small>IT Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="http://www.linkedin.com/in/patrickmuggill" data-original-title="linkedin" class="linkedin"></a></li>
@@ -734,7 +734,7 @@
             <img src="../static/img/people/nussbaum.jpg" alt="Patrick Nussbaum">
             <h3>
                 Patrick Nussbaum
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/mpnussbaum" data-original-title="GitHub" class="github"></a></li>
@@ -747,7 +747,7 @@
             <img src="../static/img/people/tickle.jpg" alt="Pierce Tickle">
             <h3>
                 Pierce Tickle
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/ticklemepierce" data-original-title="GitHub" class="github"></a></li>
@@ -759,7 +759,7 @@
             <img src="../static/img/people/hernandez.jpg" alt="Reina Hernandez">
             <h3>
                 Reina Hernandez
-                <small>QA Intern | Infrastructure</small>
+                <small>QA Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
             
@@ -772,7 +772,7 @@
 ##            <img src="../static/img/people/kolli.jpg" alt="Revanth Kolli">
 ##            <h3>
 ##                Revanth Kolli
-##                <small>Developer Intern | Infrastructure</small>
+##                <small>Developer Intern | Ninja</small>
 ##            </h3>
 ##            <ul class="social-icons social-icons-color">
 ##                <li><a href="https://github.com/revnathkolli" data-original-title="GitHub" class="github"></a></li>
@@ -785,7 +785,7 @@
 ##            <img src="../static/img/people/bajij.jpg" alt="Rohan Bajij">
 ##            <h3>
 ##                Rohan Bajij
-##                <small>Developer Volunteer | Infrastructure</small>
+##                <small>Developer Volunteer | Ninja</small>
 ##            </h3>
 ##            <ul class="social-icons social-icons-color">
 ##                <li><a href="https://github.com/rohan-bajij" data-original-title="GitHub" class="github"></a></li>
@@ -797,7 +797,7 @@
             <img src="../static/img/people/chrisinger.jpg" alt="Sam Chrisinger">
             <h3>
                 Sam Chrisinger
-                <small>Developer | Infrastructure</small>
+                <small>Developer | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/samchrisinger" data-original-title="GitHub" class="github"></a></li>
@@ -810,7 +810,7 @@
             <img src="../static/img/people/ehsan.jpg" alt="Saman Ehsan">
             <h3>
                 Saman Ehsan
-                <small>Developer | Infrastructure</small>
+                <small>Developer | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">sam<span style="display:none;">null</span>an@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -826,7 +826,7 @@
             <img src="../static/img/people/bowman.jpg" alt="Sara Bowman">
             <h3>
                 Sara Bowman
-                <small>Project Manager | Community</small>
+                <small>Project Manager | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">sar<span style="display:none;">null</span>a@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -843,7 +843,7 @@
             <img src="../static/img/people/loria.jpg" alt="Steve Loria">
             <h3>
                 Steve Loria
-                <small>Developer | Infrastructure</small>
+                <small>Developer | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">ste<span style="display:none;">null</span>ve@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -859,7 +859,7 @@
             <img src="../static/img/people/errington.jpg" alt="Tim Errington">
             <h3>
                 Tim Errington
-                <small>Project Manager | Metascience</small>
+                <small>Project Manager | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">t<span style="display:none;">null</span>im@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -874,7 +874,7 @@
             <img src="../static/img/people/paudel.jpg" alt="Wisher Paudel">
             <h3>
                 Wisher Paudel
-                <small>QA Intern | Infrastructure</small>
+                <small>QA Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://osf.io/hwzg7/" data-original-title="osf" class="osf"></a></li>
@@ -887,7 +887,7 @@
             <img src="../static/img/people/herrick.jpg" alt="Alexander Herrick">
             <h3>
                 Xander Herrick
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://osf.io/trwjd/" data-original-title="osf" class="osf"></a></li>
@@ -899,7 +899,7 @@
             <img src="../static/img/people/kraimeche.jpg" alt="Zakary Kraimeche">
             <h3>
                 Zakary Kraimeche
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/zkraime" data-original-title="GitHub" class="github"></a></li>
@@ -912,7 +912,7 @@
             <img src="../static/img/people/alijan.jpg" alt="Zobair Alijan">
             <h3>
                 Zobair Alijan
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://www.facebook.com/zobair.chs" data-original-title="Facebook" class="facebook"></a></li>
@@ -935,7 +935,7 @@
             <img src="../static/img/people/ferguson.jpg" alt="Alexander Ferguson">
             <h3>
                 Alexander Ferguson
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://osf.io/gxe9a/" data-original-title="osf" class="osf"></a></li>
@@ -947,7 +947,7 @@
             <img src="../static/img/people/mufti.jpg" alt="Azeem Mufti">
             <h3>
                 Azeem Mufti
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/azeemmufti" data-original-title="GitHub" class="github"></a></li>
@@ -963,7 +963,7 @@
             <img src="../static/img/people/macdonald.jpg" alt="Austin Macdonald">
             <h3>
                 Austin Macdonald
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/asmacdo" data-original-title="GitHub" class="github"></a></li>
@@ -976,7 +976,7 @@
             <img src="../static/img/people/gineste.jpg" alt="Catherine Gineste">
             <h3>
                 Catherine Gineste
-                <small>Administrative Assistant Intern | Community</small>
+                <small>Administrative Assistant Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/cgineste" data-original-title="GitHub" class="github"></a></li>
@@ -990,7 +990,7 @@
             <img src="../static/img/people/bischak.jpg" alt="Chris Bischak">
             <h3>
                 Chris Bischak
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
         </div>
     </li>
@@ -999,7 +999,7 @@
             <img src="../static/img/people/wang.jpg" alt="Chun Wang">
             <h3>
                 Chun Wang
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://osf.io/mejnw/" data-original-title="osf" class="osf"></a></li>
@@ -1011,7 +1011,7 @@
             <img src="../static/img/people/nelson.jpg" alt="Cornelius Nelson">
             <h3>
                 Cornelius Nelson
-                <small>Developer Volunteer | Infrastructure</small>
+                <small>Developer Volunteer | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/cnelsoniii" data-original-title="GitHub" class="github"></a></li>
@@ -1024,7 +1024,7 @@
             <img src="../static/img/people/carter.jpg" alt="Dejah Carter">
             <h3>
                 Dejah Carter
-                <small>Administrative Assistant Intern | Community </small>
+                <small>Administrative Assistant Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://osf.io/a4xe3/" data-original-title="osf" class="osf"></a></li>
@@ -1036,7 +1036,7 @@
             <img src="../static/img/people/brooks.jpg" alt="Derek Brooks">
             <h3>
                 Derek Brooks
-                <small>Human Resources Intern | Community </small>
+                <small>Human Resources Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="http://www.linkedin.com/in/derekbbrooks" data-original-title="Linkedin" class="linkedin"></a></li>
@@ -1049,7 +1049,7 @@
             <img src="../static/img/people/baranski.jpg" alt="Erica Baranski">
             <h3>
                 Erica Baranski
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/ericanbaranski" data-original-title="GitHub" class="github"></a></li>
@@ -1063,7 +1063,7 @@
             <img src="../static/img/people/huynh.jpg" alt="Faye Huynh">
             <h3>
                 Faye Huynh
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/fh9cp" data-original-title="GitHub" class="github"></a></li>
@@ -1076,7 +1076,7 @@
             <img src="../static/img/people/vuu.jpg" alt="Gina Vuu">
             <h3>
                 Gina Vuu
-                <small>QA Intern | Infrastructure</small>
+                <small>QA Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/ginavuu" data-original-title="Github" class="github"></a></li>
@@ -1090,7 +1090,7 @@
             <img src="../static/img/people/huang.jpg" alt="Ginny Huang">
             <h3>
                 Ginny Huang
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/huangginny" data-original-title="Github" class="github"></a></li>
@@ -1103,7 +1103,7 @@
             <img src="../static/img/people/mendell.jpg" alt="Himanshu Ojha">
             <h3>
                 Harris Mendell
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/harrismendell" data-original-title="GitHub" class="github"></a></li>
@@ -1116,7 +1116,7 @@
             <img src="../static/img/people/rosenberg.jpg" alt="Jake Rosenberg">
             <h3>
                 Jake Rosenberg
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://www.facebook.com/jakerose27" data-original-title="Facebook" class="facebook"></a></li>
@@ -1130,7 +1130,7 @@
             <img src="../static/img/people/carrigan.jpg" alt="Jillian Carrigan">
             <h3>
                 Jillian Carrigan
-                <small>Administrative Assistant Intern | Community</small>
+                <small>Administrative Assistant Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="http://www.linkedin.com/pub/jillian-carrigan/a0/919/6b/" data-original-title="Linkedin" class="linkedin"></a></li>
@@ -1143,7 +1143,7 @@
             <img src="../static/img/people/witschey.jpg" alt="Jim Witschey">
             <h3>
                 Jim Witschey
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/mambocab" data-original-title="GitHub" class="github"></a></li>
@@ -1157,7 +1157,7 @@
             <img src="../static/img/people/yuan.jpg" alt="Jinlu Yuan">
             <h3>
                 Jinlu Yuan
-                <small>HR Intern | Community</small>
+                <small>HR Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://www.linkedin.com/profile/view?id=195310010" data-original-title="Linkedin" class="linkedin"></a></li>
@@ -1170,7 +1170,7 @@
             <img src="../static/img/people/carp.jpg" alt="Josh Carp">
             <h3>
                 Josh Carp
-                <small>Developer | Infrastructure</small>
+                <small>Developer | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/jmcarp" data-original-title="GitHub" class="github"></a> </li>
@@ -1184,7 +1184,7 @@
             <img src="../static/img/people/gold.jpg" alt="Jordan Gold">
             <h3>
                 Jordan Gold
-                <small>QA Intern | Infrastructure</small>
+                <small>QA Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/jeg3tw" data-original-title="GitHub" class="github"></a> </li>
@@ -1198,7 +1198,7 @@
             <img src="../static/img/people/cain.jpg" alt="Katy Cain">
             <h3>
                 Katy Cain
-                <small> Social Media Intern | Community</small>
+                <small> Social Media Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://www.facebook.com/KattherineCain?ref=bookmarks" data-original-title="Facebook" class="facebook"></a></li>
@@ -1215,7 +1215,7 @@
             <img src="../static/img/people/davydova.jpg" alt="Katya Davydova">
             <h3>
                 Katya Davydova
-                <small> Human Resources Intern | Community</small>
+                <small> Human Resources Intern | Ninja</small>
                 <noscript><span class="obfuscated-email-noscript"><small style="padding-top: 5px;">kdav<span style="display:none;">null</span>ydova@co<span style="display:none;">null</span>s.io</small></span></noscript>
             </h3>
             <ul class="social-icons social-icons-color">
@@ -1230,7 +1230,7 @@
             <img src="../static/img/people/jungersen.jpg" alt="Kurtis Jungersen">
             <h3>
                 Kurtis Jungersen
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/kmjungersen" data-original-title="GitHub" class="github"></a> </li>
@@ -1244,7 +1244,7 @@
             <img src="../static/img/people/lewis.jpg" alt="Melissa Lewis">
             <h3>
                 Melissa Lewis
-                <small>Developer | Infrastructure</small>
+                <small>Developer | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/meli-lewis" data-original-title="GitHub" class="github"></a></li>
@@ -1257,7 +1257,7 @@
             <img src="../static/img/people/lapuz.jpg" alt="Michael Lapuz">
             <h3>
                 Michael Lapuz
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://osf.io/iqszn/" data-original-title="osf" class="osf"></a></li>
@@ -1269,7 +1269,7 @@
             <img src="../static/img/people/yao.jpg" alt="Michelle Yao">
             <h3>
                 Michelle Yao
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
                 <ul class="social-icons social-icons-color">
                     <li><a href="https://github.com/xym4" data-original-title="GitHub" class="github"></a></li>
@@ -1283,7 +1283,7 @@
             <img src="../static/img/people/ryan.jpg" alt="Patrick Ryan">
             <h3>
                 Patrick Ryan
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://osf.io/27ptw/" data-original-title="osf" class="osf"></a></li>
@@ -1295,7 +1295,7 @@
             <img src="../static/img/people/fan.jpg" alt="Peter Fan">
             <h3>
                 Peter Fan
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
                 <ul class="social-icons social-icons-color">
                     <li><a href="https://github.com/pjfan" data-original-title="GitHub" class="github"></a></li>
@@ -1308,7 +1308,7 @@
             <img src="../static/img/people/amanfu.jpg" alt="Robert Amanfu">
             <h3>
                 Robert Amanfu
-                <small>Developer Volunteer | Infrastructure</small>
+                <small>Developer Volunteer | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://osf.io/sn8rm/" data-original-title="osf" class="osf"></a></li>
@@ -1320,7 +1320,7 @@
             <img src="../static/img/people/liebowitz.jpg" alt="Robert Liebowitz">
             <h3>
                 Robert Liebowitz
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://www.facebook.com/RobertEvan" data-original-title="Facebook" class="facebook"></a></li>
@@ -1334,7 +1334,7 @@
             <img src="../static/img/people/portnow.jpg" alt="Sam Portnow">
             <h3>
                 Sam Portnow
-                <small>Developer Volunteer | Infrastructure</small>
+                <small>Developer Volunteer | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/SamPortnow" data-original-title="GitHub" class="github"></a></li>
@@ -1347,7 +1347,7 @@
             <img src="../static/img/people/brodsky.jpg" alt="Saul Brodsky">
             <h3>
                 Saul Brodsky
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://osf.io/bax5h/" data-original-title="osf" class="osf"></a></li>
@@ -1359,7 +1359,7 @@
             <img src="../static/img/people/hudson.jpg" alt="Tanesha Hudson">
             <h3>
                 Tanesha Hudson
-                <small>Developer Intern | Infrastructure</small>
+                <small>Developer Intern | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://osf.io/wdbn4/" data-original-title="osf" class="osf"></a></li>
@@ -1371,7 +1371,7 @@
             <img src="../static/img/people/zhu.jpg" alt="Wendy Zhu">
             <h3>
                 Wendy Zhu
-                <small>Developer Volunteer | Infrastructure</small>
+                <small>Developer Volunteer | Ninja</small>
             </h3>
             <ul class="social-icons social-icons-color">
                 <li><a href="https://github.com/wentingzhu" data-original-title="GitHub" class="github"></a></li>
